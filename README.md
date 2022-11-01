@@ -37,6 +37,8 @@ After completing this course the students will have a deep understanding of visu
 
 This course is all about hands-on coding, therefore the focus will be to rebuild an advanced data visualisation project in a step by step approach. The final goal is to allow students to rebuild similar complex visualisations after finishing this course. 
 
+During the course the students will gain a deep understanding of the following programming languages and libraries: 
+
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=pt-PT) to define the content of web pages, with a special focus on [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/svgs)
   
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) to specify the layout of web pages
