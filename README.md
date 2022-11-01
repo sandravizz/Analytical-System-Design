@@ -89,3 +89,14 @@ In this course we are using observable [notebooks](https://observablehq.com/coll
  
 Moreover for general data visualisation theory we will be using this [Presentation](https://slides.com/sandraviz/data-visualization) as well as this D3.js 
 [presentation](https://slides.com/sandraviz/d3-js)
+
+### Addition resources 
+
+- [Data Visualization video blog](https://www.youtube.com/playlist?list=PL53pYdoYDFiv2PFCiuXR53PZj9bZrZpyp)
+- [Society's Nightengale](https://medium.com/nightingale)
+- [Pudding](https://pudding.cool)
+- [Flowing Data](https://flowingdata.com)
+- [Information is Beautiful](https://informationisbeautiful.net)
+- [Design Coding](http://www.designcoding.net)
+- [Datawrapper blog](https://blog.datawrapper.de/)
+- [Podcast serie: Datastori.es](https://datastori.es)
