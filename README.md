@@ -35,9 +35,7 @@ This course will take on these interrelated challenges while striving to build s
 
 After completing this course the students will have a deep understanding of visual data analysis in oder to facilitate pattern detection and interpretation. 
 
-This course is all about hands-on coding, therefore the focus will be to rebuild this advanced data visualisation project. 
-
-- [The Unwelcomed](https://www.alhadaqa.com/wp-content/uploads/2019/11/the_unwelcomed_v2.html) 
+This course is all about hands-on coding, therefore the focus will be to rebuild an advanced data visualisation project in a step by step approach. The final goal is to allow students to rebuild similar complex visualisations after finishing this course. 
 
 **Web dev. languages**
 
@@ -85,10 +83,12 @@ Final Project - 70p
 
 ## Material  
 
-In this course we are using observable [notebooks](https://observablehq.com/collection/@sandraviz/analytical-system-design) to explain concents and general code paterns 
+In this course we are using observable [notebooks](https://observablehq.com/collection/@sandraviz/analytical-system-design) to explain concepts and general code paterns 
  
-Moreover for general data visualisation theory we will be using this [Presentation](https://slides.com/sandraviz/data-visualization) as well as this D3.js 
+Moreover for general data visualisation theory we will be using this [presentation](https://slides.com/sandraviz/data-visualization) as well as this D3.js 
 [presentation](https://slides.com/sandraviz/d3-js)
+
+The main use case for this course will be the data visualisation project [The Unwelcomed](https://www.alhadaqa.com/wp-content/uploads/2019/11/the_unwelcomed_v2.html) please check the code under this [link](https://www.alhadaqa.com/wp-content/uploads/2019/11/the_unwelcomed_v2.html)
 
 ### Addition resources 
 
