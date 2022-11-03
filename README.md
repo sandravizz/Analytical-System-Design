@@ -47,7 +47,7 @@ During the course the students will gain a deep understanding of the following p
 
 - Observable is a web-first interactive notebook to build fluid exploratory interfaces, test hypotheses by manipulating live simulations as well as visualize algorithms as they run. Working in the notebook allows you to tinker, try things and interact real-time as you explore. The notebook is a running environment with no compiling required.
 
-- [Arquero.js](https://github.com/uwdata/arquero) is a library for query processing and transformation of array-backed data tables. Following the relational algebra and inspired by the design of dplyr, Arquero provides a fluent API for manipulating column-oriented data frames.
+- [Arquero.js](https://uwdata.github.io/arquero/) is a library for query processing and transformation of array-backed data tables. Following the relational algebra and inspired by the design of dplyr, Arquero provides a fluent API for manipulating column-oriented data frames.
 
 - [Plot.js](https://github.com/observablehq/plot) is a library to help quickly visualize tabular data. It has a concise and easy to learn API to foster fluency. It's based on d3.js and very useful for explorative visual analysis
 
