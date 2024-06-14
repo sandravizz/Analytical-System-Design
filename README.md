@@ -78,7 +78,7 @@ Final Project - 70p
 
 ## Material  
 
-In this course we are using observable to explain concepts and general code patterns. Moreover for general data visualisation theory we will be using this [presentation](https://slides.com/sandraviz/data-visualization) as well as this [D3.js presentation](https://slides.com/sandraviz/d3-js). The main use case for this course will be the data visualisation project [The Unwelcomed](https://www.alhadaqa.com/wp-content/uploads/2019/11/the_unwelcomed_v2.html) please check the code under this [link](https://github.com/sandravizz/Analytical-System-Design-D3.js/tree/main/The%20unwelcomed)
+In this course we are using observable to explain concepts and general code patterns. Moreover for general data visualisation theory we will be using this [presentation](https://slides.com/sandraviz/data-visualization) as well as this [d3.js presentation](https://slides.com/sandraviz/d3-js) and this  [d3.js notebook collection](https://observablehq.com/collection/@sandraviz/30-days-of-d3-dataviz)). The main use case for this course will be the data visualisation project [The Unwelcomed](https://www.alhadaqa.com/wp-content/uploads/2019/11/the_unwelcomed_v2.html) please check the code under this [link](https://github.com/sandravizz/Analytical-System-Design-D3.js/tree/main/The%20unwelcomed)
 
 ### Addition resources 
 
